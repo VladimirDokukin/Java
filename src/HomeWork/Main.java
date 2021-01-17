@@ -31,5 +31,10 @@ public class Main {
         float result = a * (b + nd);
         System.out.println(result);
     }
+
+    public static void SecondTask(){
+        
+    }
+
 }
 
